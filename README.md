@@ -65,7 +65,7 @@ This dashboard helps businesses monitor performance and make data-driven decisio
 ## 📂 Files Included
 
 * Excel Dashboard File (.xlsx)
-* Dataset (if allowed)
+* Dataset - 
 * Screenshot of Dashboard
 
 ---
