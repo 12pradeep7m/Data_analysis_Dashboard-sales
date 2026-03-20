@@ -24,7 +24,6 @@ This dashboard answers the following key business questions:
 
 <img width="1466" height="547" alt="Screenshot 2026-03-20 133126" src="https://github.com/user-attachments/assets/2d639049-45e9-4d32-b4de-edbc349590f7" />
 
-
 ---
 
 ## 🧰 Tools & Skills Used
